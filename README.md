@@ -7,9 +7,10 @@
 
 # Introduction
 
-Dockerfile to build a Debian Wheezy image
+Dockerfile to build a Debian Stretchy image
 with the Proxmox [vma](http://pve.proxmox.com/wiki/VMA#Command_line_utility)
 command line utility
+Forked from https://github.com/akaihola/docker-vma
 
 # Contributing
 
